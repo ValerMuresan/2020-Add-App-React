@@ -18,7 +18,7 @@ The project was deployed to GitHub Pages and published at this [link](https://va
 ## Run the project locally
 
 The user can clone the project from the [repository](https://github.com/ValerMuresan/2020-Add-App-React.git).
-Go to the root directory of the project and run `npm start`.
+Go to the root directory of the project install npm and run `npm start`.
 The app will be open in browser at [http://localhost:3000](http://localhost:3000).
 
 
