@@ -1,0 +1,131 @@
+*, :after, :before {
+    box-sizing: inherit;
+}
+body {
+  margin: 0;
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  background-color: #eeffcc;
+}
+.app-container {
+  max-width: 1000px;
+  padding: 0 2em;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  line-height: 1.5;
+  color: #0033cc;
+  text-align: center;
+}
+p {
+  line-height: 1.2;
+  margin: 0;
+  font-size: 1em;
+  color: #000099;
+}
+table {
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 1.5em;
+    color: #00b3b3;
+
+}
+thead {
+      display: table-header-group;
+      vertical-align: middle;
+      border-color: inherit;
+    }
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+thead th {
+    border-bottom: 3px solid #333300;
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: left;
+    padding: 0.5em;
+}
+tbody td {
+  text-transform: uppercase;
+}
+h2 {
+  line-height: 1.5;
+  color: #0033cc;
+  font-size: 2em;
+}
+label {
+      font-weight: 700;
+      max-width: 100%;
+      color: #0000ff;
+      font-size: 1em;
+}
+[type=text] {
+ display: block;
+ border: 1px solid #333300;
+ border-radius: 4px;
+ padding: 0.5em;
+ outline: none;
+ background: transparent;
+ margin-bottom: 0.5em;
+ font-size: 1em;
+ text-transform: uppercase;
+ width: 100%;
+ max-width: 100%;
+ line-height: 1;
+}
+.button, [type=button] {
+    display: inline-block;
+    border: 1px solid #0366ee;
+    border-radius: 4px;
+    background: #0366ee;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1em;
+    text-transform: none;
+    padding: 0.75em 1.2em;
+    margin: 0 0 0.5em;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    line-height: 1;
+}
+button {
+  display: inline-block;
+  border: 1px solid #0366ee;
+  border-radius: 5px;
+  background: #0366ee;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.5em;
+  text-transform: none;
+  padding: 0.75em 1.2em;
+  margin: 0 0 0.5em;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+@media(max-width: 700px) {
+  body {
+    width: 100%;
+  }
+  table {
+    width: 100%;
+  }
+  tbody tr {
+    font-size: 0.7em;
+  }
+}
+@media(max-width: 500px) {
+  tbody tr {
+    font-size: 0.5em;
+  }
+}
