@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2020-Add-App-React/static/css/main.2d021b73.chunk.css",
+    "main.js": "/2020-Add-App-React/static/js/main.39d50804.chunk.js",
+    "main.js.map": "/2020-Add-App-React/static/js/main.39d50804.chunk.js.map",
+    "runtime-main.js": "/2020-Add-App-React/static/js/runtime-main.bf6eca21.js",
+    "runtime-main.js.map": "/2020-Add-App-React/static/js/runtime-main.bf6eca21.js.map",
+    "static/js/2.43440a86.chunk.js": "/2020-Add-App-React/static/js/2.43440a86.chunk.js",
+    "static/js/2.43440a86.chunk.js.map": "/2020-Add-App-React/static/js/2.43440a86.chunk.js.map",
+    "index.html": "/2020-Add-App-React/index.html",
+    "precache-manifest.03d18d063341c17af4a4a6821beffc6f.js": "/2020-Add-App-React/precache-manifest.03d18d063341c17af4a4a6821beffc6f.js",
+    "service-worker.js": "/2020-Add-App-React/service-worker.js",
+    "static/css/main.2d021b73.chunk.css.map": "/2020-Add-App-React/static/css/main.2d021b73.chunk.css.map",
+    "static/js/2.43440a86.chunk.js.LICENSE": "/2020-Add-App-React/static/js/2.43440a86.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf6eca21.js",
+    "static/js/2.43440a86.chunk.js",
+    "static/css/main.2d021b73.chunk.css",
+    "static/js/main.39d50804.chunk.js"
+  ]
+}
