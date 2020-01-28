@@ -24,7 +24,7 @@ The app will be open in browser at [http://localhost:3000](http://localhost:3000
 
 ## Credits
 
-[React](https://reactjs.org/)
-[Node](https://nodejs.org/en/)
-[GitHub](https://github.com/)
+[React](https://reactjs.org/)<br/>
+[Node](https://nodejs.org/en/)<br/>
+[GitHub](https://github.com/)<br/>
 [Tania Rascia](https://github.com/taniarascia/react-tutorial)
