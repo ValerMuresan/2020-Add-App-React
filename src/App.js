@@ -22,7 +22,7 @@ class App extends Component {
     const { members }  = this.state
     return (
     <div className="app-container">
-    <h1>Insert Member App</h1>
+    <h1>Add Members</h1>
     <p>Fill the first empty space with the name of the member.</p>
     <p>Fill the second empty space with the nationality of the member.</p>
     <p>Hit the add button after...</p>
